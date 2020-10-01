@@ -37,4 +37,7 @@
 .ac{
     background: #E91E63;
 }
-.equal{background:green;}
+.equal{
+   background:green;
+   color:#ffffff;
+}
